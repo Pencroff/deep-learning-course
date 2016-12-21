@@ -139,4 +139,4 @@ fabric.properties
 lesson-1/notMNIST_large/
 lesson-1/notMNIST_small/
 lesson-1/*.tar.gz
-*/notMNIST.pickle
+*/*.pickle

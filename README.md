@@ -2,3 +2,9 @@
 Play with Google  deep learning course
 
 `jupyter notebook`
+
+#### Conda environment
+
+- `conda create --name deep-learning-course`
+- `activate deep-learning-course`
+
