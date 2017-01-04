@@ -1,10 +1,11 @@
 # Deep learning course ([UDACITY](https://classroom.udacity.com/courses/ud730))
 Play with Google  deep learning course
 
-`jupyter notebook`
+#### Setup environment before experiments
 
-#### Conda environment
+- `conda install ipyparallel`
+- `ipcluster start -n 4` // instead of '4' could be number of cores on your CPU
 
-- `conda create --name deep-learning-course`
-- `activate deep-learning-course`
+In new terminal:
 
+- `jupyter notebook`
